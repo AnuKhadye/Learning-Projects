@@ -56,10 +56,6 @@ The game will open in a new window, where you can use the controls listed above 
 - Each time a player misses the ball, the other player scores a point.
 - The game continues indefinitely, so you can decide the winning score!
 
-## Screenshots
-
-*(Include a screenshot of the game in action if possible)*
-
 ## License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
