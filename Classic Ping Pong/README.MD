@@ -58,4 +58,4 @@ The game will open in a new window, where you can use the controls listed above 
 
 ## License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use under the [MIT License](../LICENSE).
