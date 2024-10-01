@@ -43,15 +43,16 @@ To run this application, you'll need the following:
 - The game will end when you collide with a wall or your own body.
 
 ## Directory Structure
-
-   ```bash
-    snake-game/
-    │
-    ├── main.py                # The main script to run the game
-    ├── snake.py               # The Snake class managing the snake's behavior
-    ├── food.py                # The Food class for generating food
-    ├── scoreboard.py          # The Scoreboard class for tracking the score
-    └── README.md              # This README file
+   The Directory Stucture would look like :
+   
+      ```bash
+       snake-game/
+       │
+       ├── main.py                # The main script to run the game
+       ├── snake.py               # The Snake class managing the snake's behavior
+       ├── food.py                # The Food class for generating food
+       ├── scoreboard.py          # The Scoreboard class for tracking the score
+       └── README.md              # This README file
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
