@@ -44,7 +44,7 @@ To run this application, you'll need the following:
 
 ## Directory Structure
 
-    ```bash
+   ```bash
     snake-game/
     │
     ├── main.py                # The main script to run the game
