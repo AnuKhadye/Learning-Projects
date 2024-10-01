@@ -50,4 +50,4 @@ bash
 
 This project is open-source and free to use under the [MIT License](../LICENSE).
 
-how can i link the directory and file description
+
