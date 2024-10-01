@@ -58,6 +58,7 @@ while is_running:
     if user_choice == "report":
         clear()
         print(show_resources())
+        time.sleep(5)
     elif user_choice.lower() == "latte" or user_choice == "espresso" or user_choice == "cappuccino":
         if check_resources(user_choice) == 1:
             cost = menu[user_choice]["cost"]
@@ -70,6 +71,7 @@ while is_running:
                 print(f"Enjoy your {user_choice}")
                 print("---------------------------------------------------------------")
                 time.sleep(5)
+                clear()
                 
                 
                 
@@ -77,9 +79,11 @@ while is_running:
         else:
             print("Sorry not enough resources!")
             print("---------------------------------------------------------------")
+            clear()
     elif user_choice == "off":
         print(f'Closing machine the resources left are:\nWater : {resources["water"]}\nMilk : {resources["milk"]}\nCoffee : {resources["coffee"]}\nMoney : {resources["money"]}')
         print("---------------------------------------------------------------")
+        
         is_running = False
         
     
