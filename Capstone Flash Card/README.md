@@ -51,6 +51,7 @@ Capstone Flash Card)
 └── flashcard_app.py  (your main application script)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is open-source and free to use under the [MIT License](../LICENSE).
 
 
